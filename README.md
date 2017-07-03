@@ -1,5 +1,5 @@
 # planning
-My plan 🌟:smile:
+My plan 🌟😀 🌎 🌓 :squirrel:  :octocat:  ​:dog:​ ​:mouse:​  ​:scorpius:​
 
 
 
@@ -10,3 +10,6 @@ My plan 🌟:smile:
 <details>
     <summary><b>Graph of supported formats</b> (click to show)</summary>
 </details>
+
+
+
